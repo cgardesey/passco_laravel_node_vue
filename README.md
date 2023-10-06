@@ -15,7 +15,6 @@ This Laravel web application allows users to answer multiple-choice questions (M
 
 ## Features
 
-- User authentication system (Register, Login, Logout)
 - Real-time feedback on user answers (green tick for correct, red cross for incorrect)
 - Video explanations by tutors for each question.
 
